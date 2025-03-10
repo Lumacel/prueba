@@ -14,4 +14,6 @@ for filename in os.listdir(data_dir):
 
 for i,doc in enumerate(documentos, start=1):
     print(f"documento {i}: \n", doc)
+
+print("Fin de la carga de documentos")
     
