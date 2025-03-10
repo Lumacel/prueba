@@ -16,4 +16,8 @@ for i,doc in enumerate(documentos, start=1):
     print(f"documento {i}: \n", doc)
 
 print("Fin de la carga de documentos")
-    
+
+
+
+for i in range(5):
+    print(i*i)
