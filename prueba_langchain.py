@@ -1,5 +1,4 @@
 from langchain_community.document_loaders import CSVLoader
-from langchain_text_splitters import RecursiveCharacterTextSplitter
 import os
 
 data_dir = 'data'
